@@ -3,13 +3,13 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups
 Click Below Picture To Open VChat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/e30f5a295dd0ca45f0163.jpg"></a></p>
+<p align="center"><a href="https://t.me/King_salaar_xxD"><img src="https://graph.org/file/5b214fe73f71752a397bb.jpg"></a></p>
 
 
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashhalderNew/BikashChatBot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Salaarofx/Royal-salaar-chat)
 
 
 ## Deploy
